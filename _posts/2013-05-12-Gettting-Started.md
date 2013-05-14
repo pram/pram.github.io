@@ -7,4 +7,6 @@ title: Getting Started
 This is me getting started with Github Pages!!
 ## w000t!
 
+![Image](http://flic.kr/p/ehy8ts)
+
 Yessum!
