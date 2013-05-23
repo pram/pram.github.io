@@ -6,79 +6,55 @@ permalink: /docs/home/
 documentation: true
 ---
 
-<div class="note">
+<div class="note project">
   <h5><a href="/docs/mache/home">MaCHe</a></h5>
   <p>Ease the pain of getting a Calypso release into Maven</p>
 </div>
 
-<div class="note">
+<div class="note project ">
   <h5><a href="/docs/calypso-maven-plugin/home">calypso-maven-plugin</a></h5>
   <p>Standardize and Simplify Calypso Development</p>
 </div>
 
-<div class="note">
-  <h5>SuperEngine</h5>
-  <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
+<div class="note project">
+  <h5><a href="/docs/superengine/home">SuperEngine</a></h5>
+  <p>The Calypso engine that can literally do anything (almost) that you ask of it</p>
 </div>
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such
-as getting your site up and running, creating and managing your content,
-customizing the way your site works and looks, deploying to various
-environments, and give you some advice on participating in the future
-development of Jekyll itself.
+## CalypsoDevelopment. What is it?
 
-## So what is Jekyll, exactly?
-
-Jekyll is a simple, blog-aware, static site generator. It takes a template
-directory containing raw text files in various formats, runs it through
-[Markdown](http://daringfireball.net/projects/markdown/) (or
-[Textile](http://textile.sitemonks.com/)) and
-[Liquid](http://wiki.shopify.com/Liquid)
-converters, and spits out a complete, ready-to-publish static website suitable
-for serving with your favorite web server. Jekyll also happens to be the engine
-behind [GitHub Pages](http://pages.github.com), which means you can use Jekyll
-to host your project’s page, blog, or website from GitHub’s servers **for
-free**.
+The aim of [CalypsoDevelopment](https://github.com/pram/CalypsoDevelopment) is to provide tools in order to make life easier for the average [Calypso](http://www.calypso.com) developer
 
 ## Quick-start guide
 
-For the impatient, here's how to get a boilerplate Jekyll site up and running.
+For the impatient, this is how to get up and running
 
 {% highlight bash %}
-~ $ gem install jekyll
-~ $ jekyll new myblog
-~ $ cd myblog
-~/myblog $ jekyll serve
-# => Now browse to http://localhost:4000
+~ $ git clone git@github.com:pram/CalypsoDevelopment.git
+~ $ cd CalypsoDevelopment
+~/CalypsoDevelopment $ more README.md
 {% endhighlight %}
 
-That's nothing, though. The real magic happens when you start creating blog
-posts, using the front-matter to control templates and layouts, and taking
-advantage of all the awesome configuration options Jekyll makes available.
+We don't want to rush ahead do we?
 
 ## ProTips™, Notes, and Warnings
 
 Throughout this guide there are a number of small-but-handy pieces of
-information that can make using Jekyll easier, more interesting, and less
-hazardous. Here’s what to look out for.
+information. Here’s what to look out for.
 
 <div class="note">
-  <h5>ProTips™ help you get more from Jekyll</h5>
-  <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
+  <h5>Tips help you get more from CalypsoDevelopment</h5>
+  <p>These are tips and tricks that will help you be a CalypsoDevelopment wizard!</p>
 </div>
 
 <div class="note info">
-  <h5>Notes are handy pieces of information</h5>
-  <p>These are for the extra tidbits sometimes necessary to understand
-     Jekyll.</p>
+  <h5>Notes are useful pieces of information</h5>
+  <p>These are for the extra tidbits sometimes necessary to understand CalypsoDevelopment.</p>
 </div>
 
 <div class="note warning">
-  <h5>Warnings help you not blow things up</h5>
-  <p>Be aware of these messages if you wish to avoid certain death.</p>
+  <h5>Warnings help you not make things go wrong</h5>
+  <p>Be aware of these messages if you wish to avoid certain death/disappointment/hurt feelings.</p>
 </div>
 
-If you come across anything along the way that we haven’t covered, or if you
-know of a tip you think others would find handy, please [file an
-issue](https://github.com/mojombo/jekyll/issues/new) and we’ll see about
-including it in this guide.
+If you find any problems then create an issue on the [project issue tracker](https://github.com/pram/CalypsoDevelopment/issues/new)

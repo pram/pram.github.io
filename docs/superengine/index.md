@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: MaCHe
-next_section: mache/installation
-permalink: /docs/mache/home/
+title: SuperEngine
+next_section: superengine/installation
+permalink: /docs/superengine/home/
 documentation: true
 ---
 
