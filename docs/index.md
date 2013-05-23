@@ -7,8 +7,8 @@ documentation: true
 ---
 
 <div class="note">
-  <h5><a href="ffdfdfd">ProTips™ help you get more from Jekyll</a></h5>
-  <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
+  <h5><a href="/docs/calypso-maven-plugin/home">calypso-maven-plugin</a></h5>
+  <p>Standardize and Simplify Calypso Development</p>
 </div>
 
 <div class="note">
