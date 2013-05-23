@@ -7,17 +7,17 @@ documentation: true
 ---
 
 <div class="note">
+  <h5><a href="/docs/mache/home">MaCHe</a></h5>
+  <p>Ease the pain of getting a Calypso release into Maven</p>
+</div>
+
+<div class="note">
   <h5><a href="/docs/calypso-maven-plugin/home">calypso-maven-plugin</a></h5>
   <p>Standardize and Simplify Calypso Development</p>
 </div>
 
 <div class="note">
-  <h5>ProTips™ help you get more from Jekyll</h5>
-  <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
-</div>
-
-<div class="note">
-  <h5>ProTips™ help you get more from Jekyll</h5>
+  <h5>SuperEngine</h5>
   <p>These are tips and tricks that will help you be a Jekyll wizard!</p>
 </div>
 
