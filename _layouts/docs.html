@@ -15,7 +15,9 @@ layout: default
         </article>
       </div>
 
-      {% include docs_contents.html %}
+      {% unless page.intro%}
+        {% include docs_contents.html %}
+      {% endunless %}
 
       <div class="clear"></div>
 
