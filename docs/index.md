@@ -1,9 +1,9 @@
 ---
 layout: docs
 title: Documentation Index
-next_section: installation
 permalink: /docs/home/
 documentation: true
+intro: true
 ---
 
 <div class="note project">
