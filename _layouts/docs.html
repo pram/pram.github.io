@@ -15,9 +15,13 @@ layout: default
         </article>
       </div>
 
-      {% unless page.intro%}
-        {% include docs_contents.html %}
-      {% endunless %}
+      {% if page.project == "mache" %}
+        {% include docs_contents-mache.html %}
+      {% elsif page.project == "cmp" %}
+        {% include docs_contents-cmp.html %}
+      {% elsif page.project == "se" %}
+        {% include docs_contents-se.html %}         
+      {% endif %}
 
       <div class="clear"></div>
 

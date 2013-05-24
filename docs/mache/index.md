@@ -4,6 +4,7 @@ title: MaCHe
 next_section: mache/installation
 permalink: /docs/mache/home/
 documentation: true
+project: mache
 ---
 
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such

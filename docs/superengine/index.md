@@ -4,6 +4,7 @@ title: SuperEngine
 next_section: superengine/installation
 permalink: /docs/superengine/home/
 documentation: true
+project: se
 ---
 
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such
