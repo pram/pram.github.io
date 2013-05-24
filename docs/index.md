@@ -35,7 +35,7 @@ For the impatient, this is how to get up and running
 ~/CalypsoDevelopment $ more README.md
 {% endhighlight %}
 
-We don't want to rush ahead do we?
+That's all for now. We don't want to rush ahead do we?
 
 ## ProTips™, Notes, and Warnings
 
