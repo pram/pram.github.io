@@ -10,5 +10,9 @@ project: mache
 
 ### Usage instructions
 
+#### Download release
+
+Download Calypso release from [web site](http://www.calypso.com). For this example we will be using version `130007SP2` as the reference version.
+
 
 
