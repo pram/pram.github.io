@@ -2,7 +2,7 @@
 layout: docs
 title: Installation
 prev_section: mache/home
-next_section: mache/usage
+next_section: mache/options
 permalink: /docs/mache/installation/
 documentation: true
 project: mache
