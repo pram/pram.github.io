@@ -402,6 +402,26 @@ body > footer a:hover img {
   border-bottom: 1px solid #c00;
 }
 
+.docs aside h4.doctitle {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 0 0 10px 30px;
+  margin-left: -30px;
+  display: inline-block;
+  border-bottom: 1px solid #F00;  
+}
+
+.docs aside h4.doctitle-small {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 0 0 10px 30px;
+  margin-left: -30px;
+  display: inline-block;
+  border-bottom: 1px solid #F00;  
+}
+
 .docs aside ul {
   padding-left: 0;
 }
