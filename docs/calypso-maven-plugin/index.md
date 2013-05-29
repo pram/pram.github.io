@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Welcome
+title: Introduction
 next_section: calypso-maven-plugin/installation
 permalink: /docs/calypso-maven-plugin/home/
 documentation: true
