@@ -13,7 +13,13 @@ project: mache
 The following are required before MaCHe will run
 
 - [Groovy](http://groovy.codehaus.org/) - at least version 2.0
+- [Maven](https://maven.apache.org/) - at least version 3.0
 - Linux, Unix, Mac OS X or Windows
+
+<div class="note">
+  <h5>Immediate execution of generated scripts</h5>
+  <p>You can set the `M2_HOME` environment variable to your Maven installation directory to ensure that the generated scripts are immediately executable</p>
+</div>
 
 ### Getting Started
 
