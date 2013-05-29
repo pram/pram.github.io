@@ -1,8 +1,8 @@
 ---
 layout: docs
 title: Usage (POM)
-prev_section: mache/usage
-next_section: mache/usage_p
+prev_section: mache/usage_d
+next_section: mache/usage_maven
 permalink: /docs/mache/usage_p/
 documentation: true
 project: mache
