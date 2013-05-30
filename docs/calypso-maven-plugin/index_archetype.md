@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: Introduction
-next_section: calypso-maven-plugin/installation
-permalink: /docs/calypso-maven-plugin/home/
+title: Archtype Intro
+prev_section: calypso-maven-plugin/index_plugin
+permalink: /docs/calypso-maven-plugin/index_archetype/
 documentation: true
 project: cmp
 ---
