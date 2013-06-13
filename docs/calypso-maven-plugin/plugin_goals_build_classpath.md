@@ -8,6 +8,8 @@ documentation: true
 project: cmp
 ---
 
+This goal allows for the logical output of the classpath to be defined using the order of dependencies in the main pom file.
+
 calypso:build-classpath has several properties
 
 
