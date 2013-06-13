@@ -1,16 +1,16 @@
 ---
 layout: docs
-title: calypso:generate-properties
+title: calypso:install-calypso-jars
 prev_section: calypso-maven-plugin/index_plugin
 next_section: calypso-maven-plugin/index_archetype
-permalink: /docs/calypso-maven-plugin/plugin_goals_generate_properties/
+permalink: /docs/calypso-maven-plugin/plugin_goals_install_calypso_jars/
 documentation: true
 project: cmp
 ---
 
-## calypso:generate-properties
+## calypso:install-calypso-jars
 
-calypso:generate-properties has several properties
+calypso:install-calypso-jars has several properties
 
 <div class="mobile-side-scroller">
 <table>

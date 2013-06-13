@@ -1,16 +1,16 @@
 ---
 layout: docs
-title: calypso:generate-properties
+title: calypso:status
 prev_section: calypso-maven-plugin/index_plugin
 next_section: calypso-maven-plugin/index_archetype
-permalink: /docs/calypso-maven-plugin/plugin_goals_generate_properties/
+permalink: /docs/calypso-maven-plugin/plugin_goals_status/
 documentation: true
 project: cmp
 ---
 
-## calypso:generate-properties
+## calypso:status
 
-calypso:generate-properties has several properties
+calypso:status has several properties
 
 <div class="mobile-side-scroller">
 <table>
