@@ -2,7 +2,7 @@
 layout: docs
 title: Plugin Intro
 prev_section: calypso-maven-plugin/installation
-next_section: calypso-maven-plugin/index_archetype
+next_section: calypso-maven-plugin/plugin_goals
 permalink: /docs/calypso-maven-plugin/index_plugin/
 documentation: true
 project: cmp
@@ -22,4 +22,6 @@ Simply insert the following code snippet into the pom file for your project in t
 </plugin>
 {% endhighlight %}
 
-Set the property `${calypso.maven.plugin.version}` to be the desired version of calypso-maven-plugin (Latest: <code>{{ site.cmp_latest_version }}</code>)
+Set the property `${calypso.maven.plugin.version}` to be the desired version of calypso-maven-plugin - Latest: <code>{{ site.cmp_latest_version }}</code>  
+  
+

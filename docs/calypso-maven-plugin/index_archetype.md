@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: Archtype Intro
-prev_section: calypso-maven-plugin/index_plugin
+title: Archetype Intro
+prev_section: calypso-maven-plugin/plugin_goals
 permalink: /docs/calypso-maven-plugin/index_archetype/
 documentation: true
 project: cmp

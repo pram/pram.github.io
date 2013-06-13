@@ -11,12 +11,25 @@
       </li>      
     </ul>
     <h4>Plugin Usage</h4>
-    <li class="{% if page.title == "Plugin Intro" %}current{% endif %}">
-        <a href="{{ site.url }}/docs/calypso-maven-plugin/home">Plugin Introduction</a>
+    <ul>
+      <li class="{% if page.title == "Plugin Intro" %}current{% endif %}">
+          <a href="{{ site.url }}/docs/calypso-maven-plugin/index_plugin">Plugin Introduction</a>
       </li>
+      <li class="{% if page.title == "Goals Overview" %}current{% endif %}">
+          <a href="{{ site.url }}/docs/calypso-maven-plugin/plugin_goals">Goals Overview</a>
+      </li>
+      <li class="{% if page.title == "calypso:build-classpath" %}current{% endif %}">
+          <a href="{{ site.url }}/docs/calypso-maven-plugin/plugin_goals_build_classpath">&nbsp;&nbsp;&nbsp;&nbsp;build-classpath</a>
+      </li>
+      <li class="{% if page.title == "calypso:generate-properties" %}current{% endif %}">
+          <a href="{{ site.url }}/docs/calypso-maven-plugin/plugin_goals_generate_properties">&nbsp;&nbsp;&nbsp;&nbsp;generate-properties</a>
+      </li>
+    </ul>
     <h4>Archetype Usage</h4>
-    <li class="{% if page.title == "Archetype Intro" %}current{% endif %}">
-        <a href="{{ site.url }}/docs/calypso-maven-plugin/home">Archetype Introduction</a>
+    <ul>
+      <li class="{% if page.title == "Archetype Intro" %}current{% endif %}">
+        <a href="{{ site.url }}/docs/calypso-maven-plugin/index_archetype">Archetype Introduction</a>
       </li>
+    </ul>
   </aside>
 </div>
