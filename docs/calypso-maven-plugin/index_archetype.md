@@ -2,18 +2,15 @@
 layout: docs
 title: Archetype Intro
 prev_section: calypso-maven-plugin/plugin_goals
+next_section: calypso-maven-plugin/archetype_structure
 permalink: /docs/calypso-maven-plugin/index_archetype/
 documentation: true
 project: cmp
 ---
 
-## What is the calypso-maven-plugin
+##Installation
 
-This is a general purpose Maven plugin to help with the development of any [Calypso](http://www.calypso.com) related project.
+This archetype generates a small Maven project that is designed to make it easy to get started developing against Calypso.
 
-## How can it help?
+To install the archetype into your local Repo you have to [install](/docs/calypso-maven-plugin/installation/) the calypso-maven-plugin first.
 
-There are two main areas to the plugin
-
-* a plugin - This is used to add various functions to the build and works in tandem with the Maven lifecycle just like any other plugin
-* an archetype - This offers a way to logically organize your project, build your release components and build and deploy your production code.
