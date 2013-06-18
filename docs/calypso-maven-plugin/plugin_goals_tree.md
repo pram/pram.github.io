@@ -8,30 +8,10 @@ documentation: true
 project: cmp
 ---
 
-## calypso:tree
+calypso:tree is a goal which shows a dependency tree of the Calypso processes. This is derived from the relevant process catalog.
 
-calypso:tree has several properties
-
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td>
-        <p ></p>        
-      </td>
-      <td class='align-center'>
-        <p>
-         Deletes the intermediate directory
-        </p>        
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Property        | Description           |
+| ------------- |:-------------:|
+|processCatalog<code>default:ALL</code>|The process catalog to use to build the management list from and to let the user choose processes from. Should be defined at compile time by the calling project.|
+|verbose|Display full information about running processes|
 
