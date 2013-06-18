@@ -8,30 +8,13 @@ documentation: true
 project: cmp
 ---
 
-## calypso:install-calypso-jars
+calypso:install-calypso-jars manages the installation of a Calypso release jar into the local or remote Maven repository.
 
-calypso:install-calypso-jars has several properties
-
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td>
-        <p ></p>        
-      </td>
-      <td class='align-center'>
-        <p>
-         Deletes the intermediate directory
-        </p>        
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Property        | Description           |
+| ------------- |:-------------:|
+|version|Calypso version number|
+|group|Calypso group name in Maven|
+|mavenHome|Maven installation directory|
+|unpackedLocation|Unpacked release source directory|
+|buildDir|Temp working directory|
 

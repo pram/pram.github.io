@@ -8,30 +8,12 @@ documentation: true
 project: cmp
 ---
 
-## calypso:generate-properties
-
 calypso:generate-properties has several properties
 
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td>
-        <p ></p>        
-      </td>
-      <td class='align-center'>
-        <p>
-         Deletes the intermediate directory
-        </p>        
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Property        | Description           |
+| ------------- |:-------------:|
+|src|The directory where source properties are located|
+|out|The directory where generated files will be placed|
+|templateFolder|The directory where template files are stored|
+|version|The calypso release version for the templates. This must correspond to the version as stored in your Maven repo|
 

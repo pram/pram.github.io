@@ -8,30 +8,10 @@ documentation: true
 project: cmp
 ---
 
-## calypso:manage
+calypso:manage is a goal which allows Calypso process management
 
-calypso:manage has several properties
-
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-      <td>
-        <p ></p>        
-      </td>
-      <td class='align-center'>
-        <p>
-         Deletes the intermediate directory
-        </p>        
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Property        | Description           |
+| ------------- |:-------------:|
+|interactiveMode|User settings use to check the interactiveMode. Use <code>mvn -B calypso:manage</code> or <code>mvn --batch-mode calypso:manage</code>|
+|processCatalog<code>default:ALL</code>|The process catalog to use to build the management list from and to let the user choose processes from. Should be defined at compile time by the calling project.|
 
