@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Calypso Jar Installation
-prev_section: calypso-maven-plugin/index_archetype
-next_section: calypso-maven-plugin/archetype_optional_modules
-permalink: /docs/calypso-maven-plugin/archetype_install_jar/
+title: Optional Code
+prev_section: calypso-maven-plugin/archetype_optional_modules
+next_section: calypso-maven-plugin/archetype_structure
+permalink: /docs/calypso-maven-plugin/archetype_optional_code/
 documentation: true
 project: cmp
 ---
