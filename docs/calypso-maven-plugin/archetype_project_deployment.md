@@ -2,7 +2,7 @@
 layout: docs
 title: Project Deployment
 prev_section: calypso-maven-plugin/archetype_project_usage
-next_section: calypso-maven-plugin/archetype_structure
+next_section: calypso-maven-plugin/archetype_process_management
 permalink: /docs/calypso-maven-plugin/archetype_project_deployment/
 documentation: true
 project: cmp

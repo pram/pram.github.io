@@ -2,7 +2,7 @@
 layout: docs
 title: Project Usage
 prev_section: calypso-maven-plugin/archetype_optional_code
-next_section: calypso-maven-plugin/archetype_structure
+next_section: calypso-maven-plugin/archetype_project_deployment
 permalink: /docs/calypso-maven-plugin/archetype_project_usage/
 documentation: true
 project: cmp
