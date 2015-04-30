@@ -21,6 +21,11 @@ intro: true
   <p>The Calypso engine that can literally do anything (almost) that you ask of it</p>
 </div>
 
+<div class="note project">
+  <h5><a href="/docs/inmemds/home">InMemDS</a></h5>
+  <p>Run a Dataserver entirely in memory to assist with testing</p>
+</div>
+
 ## CalypsoDevelopment. What is it?
 
 The aim of [CalypsoDevelopment](https://github.com/pram/CalypsoDevelopment) is to provide tools in order to make life easier for the average [Calypso](http://www.calypso.com) developer
