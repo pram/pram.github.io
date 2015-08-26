@@ -450,7 +450,7 @@ buildcontrol: {
     pages: {
       options: {
         remote: 'git@github.com:pram/pram.github.io.git',
-        branch: 'gh-pages'
+        branch: 'master'
       }
     },
     local: {
