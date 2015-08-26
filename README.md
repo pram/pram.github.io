@@ -1,7 +1,12 @@
-# github pages src branch
+# pramgithubio
 
-from the following [link](http://txt.fliglio.com/2013/04/publishing-a-yeoman-app-with-github-pages/)
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.12.1.
 
-or the following [link](https://github.com/robwierzbowski/grunt-build-control)
+## Build & development
 
-pristine build kept in ondrive
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
