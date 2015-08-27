@@ -29,6 +29,11 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
+      .when('/portfolio', {
+        templateUrl: 'views/portfolio.html',
+        controller: 'PortfolioCtrl',
+        controllerAs: 'portfolio'
+      })
       .otherwise({
         redirectTo: '/'
       });
